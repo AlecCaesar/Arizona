@@ -7,6 +7,18 @@ TagManager:
   - AmmoRefill
   - Bullet
   - Health
+  - Quest
+  - Door
+  - Town Door
+  - Saloon Door
+  - Town Hall Door
+  - Enemy Bullet
+  - Saloon Exit
+  - Structure
+  - House Door
+  - House Exit
+  - Object
+  - Town Hall Exit
   layers:
   - Default
   - TransparentFX
@@ -14,7 +26,7 @@ TagManager:
   - Terrain
   - Water
   - UI
-  - 
+  - WhatIsPlayer
   - 
   - 
   - 

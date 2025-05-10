@@ -4,6 +4,7 @@ public class CharacterMovement : MonoBehaviour
 {
     public float speed = 2f;
     
+    
 
     public void MoveToward(Vector3 target){
         Vector3 direction = target - transform.position;
@@ -13,4 +14,6 @@ public class CharacterMovement : MonoBehaviour
     public void Move(Vector3 direction){
         transform.position += direction * speed * Time.deltaTime;
     }
+
+   
 }

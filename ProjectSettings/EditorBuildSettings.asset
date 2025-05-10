@@ -8,6 +8,30 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GamePlay.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/GamePlay 1.unity
+    guid: 108d897a6a5fee645b6bc87774cdc423
+  - enabled: 1
+    path: Assets/Scenes/GamePlay 2.unity
+    guid: 229b196cf3cb8ef458a52c18b10fca46
+  - enabled: 1
+    path: Assets/Scenes/Win Scene.unity
+    guid: 554b97f100d91db43acb537ac4d5ff86
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 269be9c6672a6aa409e0650fbfd16d6d
+  - enabled: 1
+    path: Assets/Scenes/Death Scene.unity
+    guid: f7151c8bb9e21c94bb7998a60006f129
+  - enabled: 1
+    path: Assets/Scenes/Saloon.unity
+    guid: c044ce764201c044caa38e05cbf041b1
+  - enabled: 1
+    path: Assets/Scenes/House.unity
+    guid: 27ff88b75e0f27343b2dabcb19e1113a
+  - enabled: 1
+    path: Assets/Scenes/Town Hall.unity
+    guid: 28b39c12191ab7945bb329bcfea30e73
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

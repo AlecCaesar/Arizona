@@ -43,11 +43,11 @@ public class PlayerInputHandler : MonoBehaviour
         if(Input.GetKey(KeyCode.D)){
            movement += cameraRight;
         }
-
+        //Jump
         if(Input.GetKey(KeyCode.Space)){
             movement += cameraTransform.up;
         }
-
+        //Shoot
         if(Input.GetKeyDown(KeyCode.Mouse0)){   //GetKeyDown only allows it to shoot one bullet per click
             player.Bullets();
         }
